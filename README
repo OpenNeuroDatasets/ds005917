@@ -2,7 +2,7 @@
 
 The study was completed at the National Institute of Mental Health (NIMH) Intramural Research Program (IRP)  (ID: 04-M-0222) within the within the Experimental Therapeutics and Pathophysiology Branch.  It is a double-blind placebo cross-over trial of a single infusion of ketamine or saline placebo which included both patients and healthy volunteers. Patients with major depressive disorder (MDD) were medication-free for at least 2 weeks prior to the start of the study. Recruitment for the bipolar (BP) group was ended early on, but is included here for completeness. Some measurements (tasks/scans/scales) were added part-way into the study and have fewer completed measurements.
 
-Nominally, there are five Magnetic Resonance Imaging (MRI) scans per subject at both 3 Tesla and 7 Tesla with the details listed below (this release contains 3T data). There are on average about 25 (give or take) good scans per scan type. Note that not everyone ended up receiving all planned scans. Some people dropped out, some people did not want to have an MRI (infrequent), and sometimes there were technical issues. 
+Nominally, there are five Magnetic Resonance Imaging (MRI) scans per subject at both 3 Tesla and 7 Tesla with the details listed below (this release contains 3T data). Note that not everyone ended up receiving all planned scans. Some people dropped out, some people did not want to have an MRI (infrequent), and sometimes there were technical issues. 
 
 ## MRI Data Description
 
