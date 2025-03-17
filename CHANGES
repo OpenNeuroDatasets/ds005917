@@ -1,2 +1,4 @@
+1.0.1 2025-03-17
+  - Added SliceTiming to task-rest JSON sidecar files.
 1.0.0 2025-02-21
   - Initial upload
